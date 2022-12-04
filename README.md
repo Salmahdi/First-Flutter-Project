@@ -1,5 +1,5 @@
 My first project in flutter ..                    
-Simple profie UI shows prsonal information which are ...
+Simple profie UI shows prosomal information which are ...
 
 Image ,
 Name ,
